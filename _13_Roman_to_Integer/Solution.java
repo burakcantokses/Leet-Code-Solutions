@@ -5,7 +5,7 @@ import java.util.List;
 public class Solution {
 
     public static void main(String[] args) {
-        System.out.println(romanToInt("MCMXCIV"));
+        System.out.println(romanToInt("XXI"));
     }
     public static int romanToInt(String s) {
         int number = 0;
@@ -24,9 +24,7 @@ public class Solution {
 
         for (int i = 0; i < s.length(); i++) {
             key = String.valueOf(s.charAt(i));
-            if (i == 0) {checkedValue.add(key);}
-            
-
+            checkedValue.add(key);
             number += romans.get(key);
         }
         return number;
