@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Leet-Code-Solutions.iml" filepath="$PROJECT_DIR$/Leet-Code-Solutions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_1011_Capacity_To_Ship_Packages_Within_D_Days/_1011_Capacity_To_Ship_Packages_Within_D_Days.iml" filepath="$PROJECT_DIR$/_1011_Capacity_To_Ship_Packages_Within_D_Days/_1011_Capacity_To_Ship_Packages_Within_D_Days.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_14_Longest_Common_Prefix/_14_Longest_Common_Prefix.iml" filepath="$PROJECT_DIR$/_14_Longest_Common_Prefix/_14_Longest_Common_Prefix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_1929_Concatenation_of_Arr/_1929_Concatenation_of_Arr.iml" filepath="$PROJECT_DIR$/_1929_Concatenation_of_Arr/_1929_Concatenation_of_Arr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_1_Two_Sum/_1_Two_Sum.iml" filepath="$PROJECT_DIR$/_1_Two_Sum/_1_Two_Sum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_20_Valid_Parentheses/_20_Valid_Parentheses.iml" filepath="$PROJECT_DIR$/_20_Valid_Parentheses/_20_Valid_Parentheses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_9_Palindrome_Number/_9_Palindrome_Number.iml" filepath="$PROJECT_DIR$/_9_Palindrome_Number/_9_Palindrome_Number.iml" />
+    </modules>
+  </component>
+</project>
