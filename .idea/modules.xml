@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Leet-Code-Solutions.iml" filepath="$PROJECT_DIR$/Leet-Code-Solutions.iml" />
       <module fileurl="file://$PROJECT_DIR$/_1011_Capacity_To_Ship_Packages_Within_D_Days/_1011_Capacity_To_Ship_Packages_Within_D_Days.iml" filepath="$PROJECT_DIR$/_1011_Capacity_To_Ship_Packages_Within_D_Days/_1011_Capacity_To_Ship_Packages_Within_D_Days.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_125_Valid_Palindrome/_125_Valid_Palindrome.iml" filepath="$PROJECT_DIR$/_125_Valid_Palindrome/_125_Valid_Palindrome.iml" />
       <module fileurl="file://$PROJECT_DIR$/_1337_The_K_Weakest_Rows_in_a_Matrix/_1337_The_K_Weakest_Rows_in_a_Matrix.iml" filepath="$PROJECT_DIR$/_1337_The_K_Weakest_Rows_in_a_Matrix/_1337_The_K_Weakest_Rows_in_a_Matrix.iml" />
       <module fileurl="file://$PROJECT_DIR$/_1342_Number_of_Steps_to_Reduce_a_Number_to_Zero/_1342_Number_of_Steps_to_Reduce_a_Number_to_Zero.iml" filepath="$PROJECT_DIR$/_1342_Number_of_Steps_to_Reduce_a_Number_to_Zero/_1342_Number_of_Steps_to_Reduce_a_Number_to_Zero.iml" />
       <module fileurl="file://$PROJECT_DIR$/_14_Longest_Common_Prefix/_14_Longest_Common_Prefix.iml" filepath="$PROJECT_DIR$/_14_Longest_Common_Prefix/_14_Longest_Common_Prefix.iml" />
