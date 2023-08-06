@@ -7,7 +7,7 @@ public class Main {
     }
     public static int[] plusOne(int[] digits) {
         int gives = 1;
-        int sum = 0;
+        int sum;
         for (int i = digits.length-1; i>=0; i--) {
             sum = digits[i] + gives;
             digits[i] = sum % 10;
